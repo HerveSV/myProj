@@ -3,7 +3,6 @@ print("")
 
 #dwadwdwawd
 #wadwdad
-print("Hello dadwawdWorld! This is a merge conflict!!!")
 
 
 
